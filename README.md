@@ -1,4 +1,4 @@
-# Mon premier RAG 🧠 — corpus de Villebrume-les-Cuillères
+# Mon premier RAG — corpus de Villebrume-les-Cuillères
 
 > Mini-TP guidé M2 MD5 — Khadidja B.
 
